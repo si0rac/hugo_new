@@ -1,6 +1,11 @@
 ---
-title: "My First Post"
-date: 2018-05-05T14:23:57+02:00
+title: My First Post
+date: 2018-05-05 14:23:57 +0200
 draft: true
----
 
+---
+## Adding some content here
+
+```sudo apt-get install hugo```
+
+```brew install hugo```
