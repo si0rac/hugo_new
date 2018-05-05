@@ -1,7 +1,6 @@
 ---
 title: My First Post
 date: 2018-05-05 14:23:57 +0200
-draft: true
 
 ---
 ## Adding some content here
